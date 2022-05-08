@@ -1,1 +1,3 @@
-hi team we working with git pull command 
+hi team we working with git clone command 
+git clone url of the remote repo should be given
+the whole repo is cloned into local repo
